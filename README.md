@@ -12,10 +12,10 @@ There are data sheets for this project's technical data sheet as below.
    1) index.html: The repository main program.
    2) walkboston.js: This program is JavaScript code to support user business requirements. 
    3) data.js: This program supports users' business needs to relate payroll lists.
-3. DOM.
+3. JavaScrip for DOM.
    1) document.createElement: To support business purposes, I created the creatElement of JavaScript to support payroll data.
    2) document.innerElement: This function gave lot using data sheets in renderPosts.
   
-4. 
+
   
    
