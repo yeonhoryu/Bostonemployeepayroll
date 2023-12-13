@@ -7,6 +7,7 @@ In this project, I made a project that JASON data and how I sorted for array dat
 DOM is also a strong display method on the HTML screen because it could give rapid results for the end user's requirements. 
 
 There are data sheets for this project's technical data sheet as below.
+
 1. GitHub repository address: https://github.com/yeonhoryu/Bostonemployeepayroll.git
 2. Program configuration.
    1) index.html: The repository main program.
@@ -16,6 +17,8 @@ There are data sheets for this project's technical data sheet as below.
    1) document.createElement: To support business purposes, I created the creatElement of JavaScript to support payroll data.
    2) document.innerElement: This function gave lot using data sheets in renderPosts.
 4. Related program upload December 12, 2023.
+
+5. Written: Yuneho(Paul) Ryu
    
   
 
