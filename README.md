@@ -1,24 +1,28 @@
-# Boston City Employee Payroll list 
+# Boston City Employee Payroll List
 
-This project is to generate three payroll lists for Boston City Employees using JASON and the Document Object Model(DOM).
-Three payroll lists were to configure Boston Employee's Top Five Payroll list, Above $100,000 Payroll list, and Boston Employees Payroll list.
 
-In this project, I made a project that JASON data and how I sorted for array data in the Boston City detail list. 
-DOM is also a strong display method on the HTML screen because it could give rapid results for the end user's requirements. 
+This project aims to generate three payroll lists for Boston City Employees utilizing JSON and the Document Object Model (DOM). 
+The three payroll lists include Boston Employee's Top Five Payroll list, Above $100,000 Payroll list, and Boston Employees Payroll list.
 
-There are data sheets for this project's technical data sheet as below.
+In this project, I processed JSON data and implemented sorting for array data in the Boston City employee detail list. 
+The DOM proves to be a robust display method on the HTML screen, providing rapid results to meet end-user requirements.
 
-1. GitHub repository address: https://github.com/yeonhoryu/Bostonemployeepayroll.git
-2. Program configuration.
-   1) index.html: The repository main program.
-   2) walkboston.js: This program is JavaScript code to support user business requirements. 
-   3) data.js: This program supports users' business needs to relate payroll lists.
-3. JavaScrip for DOM.
-   1) document.createElement: To support business purposes, I created the creatElement of JavaScript to support payroll data.
-   2) document.innerElement: This function gave lot using data sheets in renderPosts.
-4. Related program upload December 12, 2023.
+Technical details for this project are outlined below:
 
-5. Written: Yuneho(Paul) Ryu
+GitHub Repository Address: https://github.com/yeonhoryu/Bostonemployeepayroll.git
+
+Program Configuration:
+
+index.html: The main program in the repository.
+walkboston.js: JavaScript code supporting user business requirements.
+data.js: This program addresses users' business needs related to payroll lists.
+JavaScript for DOM:
+
+document.createElement: Created using JavaScript to support payroll data for business purposes.
+document.innerHTML: A key function for data rendering using JSON data.
+Related Program Upload Date: December 12, 2023.
+
+Written by: Yuneho (Paul) Ryu
    
   
 
